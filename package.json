@@ -1,0 +1,28 @@
+{
+  "name": "mcumgr-web",
+  "version": "1.0.0",
+  "description": "My development fork of MCU Manager for browsers",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navigator117/mcumgr-web.git"
+  },
+  "keywords": [
+    "mcumgr",
+    "webbluetooth",
+    "webserial",
+    "webusb"
+  ],
+  "author": "navigator117",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navigator117/mcumgr-web/issues"
+  },
+  "homepage": "https://github.com/navigator117/mcumgr-web#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
